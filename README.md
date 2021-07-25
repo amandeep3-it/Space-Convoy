@@ -50,6 +50,12 @@ swarm.exe
 * 0.2 - October 2020
     * Program completed
     * Programmed the `2 Circles Model` and `Sphere Model` designs.
+    * Specifically programmed the files within the directory `.\{ DESIGN }\Sources\Student_Packages`:
+    ```
+    - vehicle_message_type.ads
+    - vehicle_task_type.adb
+    - vehicle_task_type.ads
+    ```
     * Completed by `Amandeep Singh`
 * 0.1 - July 2018
     * Developed the graphical interface and physical interaction among the airships.
