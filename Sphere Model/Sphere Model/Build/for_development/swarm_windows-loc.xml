@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 43" line=" 96" >
+      <vfs_project>C:\Users\amand\OneDrive\Documents\ANU\COMP2310 - Systems, Networks and Concurrency\Assignment 1\Assignment_1_template_0.93\Assignment_1_template\swarm_windows.gpr</vfs_project>
+      <vfs_file>C:\Users\amand\OneDrive\Documents\ANU\COMP2310 - Systems, Networks and Concurrency\Assignment 1\Assignment_1_template_0.93\Assignment_1_template\Sources\Student_Packages\vehicle_task_type.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\amand\OneDrive\Documents\ANU\COMP2310 - Systems, Networks and Concurrency\Assignment 1\Assignment_1_template_0.93\Assignment_1_template\swarm_windows.gpr</vfs_project>
+      <vfs_file>C:\Users\amand\OneDrive\Documents\ANU\COMP2310 - Systems, Networks and Concurrency\Assignment 1\Assignment_1_template_0.93\Assignment_1_template\Sources\Swarm\swarm_configuration.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
