@@ -4,7 +4,7 @@ Command-line based Graphical Ada Space Convoy Designs to enhance and develop com
 
 ## Description
 
-The airships of the program are to assign eachother in accessing the fuel ball to keep them selves alive as much as possible. The design `2 Circles Model` contains the airships forming 2 circles circulation path next to the fuel ball. The desing `Sphere Model` contains the airships forming a sphere ciculation path around the fuel ball.
+The airships of the program are to assign each other in accessing the fuel ball to keep themselves alive as much as possible. The design `2 Circles Model` contains the airships forming a 2 circles circulation path next to the fuel ball. The design `Sphere Model` contains the airships forming a sphere circulation path around the fuel ball.
 
 ### Languages and Tools:
 
@@ -30,7 +30,7 @@ The airships of the program are to assign eachother in accessing the fuel ball t
 ### Executing program
 
 * The file to execute the program is `swarm.exe`.
-* The executeable file is located at:
+* The executable file is located at:
 ```
 2 Circles Model - .\2 Circles Model\2 Circles Model\Execute
 Sphere Model - .\Sphere Model\Sphere Model\Execute
@@ -52,5 +52,5 @@ swarm.exe
     * Programmed the `2 Circles Model` and `Sphere Model` designs.
     * Completed by `Amandeep Singh`
 * 0.1 - July 2018
-    * Developed the graphical interface and physical interation among the airships.
+    * Developed the graphical interface and physical interaction among the airships.
     * Initial Release developed by `Dr Uwe Zimmer`
