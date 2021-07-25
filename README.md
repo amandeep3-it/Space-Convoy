@@ -30,7 +30,7 @@ The airships of the program are to assign each other in accessing the fuel ball 
 ### Executing program
 
 * The file to execute the program is `swarm.exe`.
-* The executable file is located at:
+* The executable files are located at directories:
 ```
 2 Circles Model - .\2 Circles Model\2 Circles Model\Execute
 Sphere Model - .\Sphere Model\Sphere Model\Execute
