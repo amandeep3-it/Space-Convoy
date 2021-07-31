@@ -1,6 +1,6 @@
 # Space Convoy - Ada
 
-Command-line based Graphical Ada Space Convoy Designs to enhance and develop communication and networking skills. Learning goals were to practise the airships' effective interactions with the fuel ball and several other airships. The design should keep alive as many ships as possible by allowing them to access the fuel ball when appropriate.
+Command-line based Graphical `Ada` Space Convoy Designs to enhance and develop communication and networking skills. Learning goals were to practise the airships' effective interactions with the fuel ball and several other airships. The design should keep alive as many ships as possible by allowing them to access the fuel ball when appropriate.
 
 ## Description
 
@@ -8,8 +8,11 @@ The airships of the program are to assign each other in accessing the fuel ball 
 
 ### Languages and Tools:
 
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img align="left" alt="GNAT Studio" height="50px" width="50px" src="https://img2.helpnetsecurity.com/articles/icon_gps.jpg" />][gnat-studio]
+[<img align="left" alt="Ada" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ada_Mascot_with_slogan.svg" />][ada]
+[<img align="left" alt="Terminal" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
+<br/>
 <br/>
 
 ---
@@ -60,3 +63,7 @@ swarm.exe
 * 0.1 - July 2018
     * Developed the graphical interface and physical interaction among the airships.
     * Initial Release developed by `Dr Uwe Zimmer`
+
+[gnat-studio]: https://www.adacore.com/gnatpro/toolsuite/gnatstudio
+[ada]: https://www.adacore.com/
+[terminal]: https://www.microsoft.com/en-au/p/windows-terminal/9n0dx20hk701
